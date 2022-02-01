@@ -1,0 +1,48 @@
+archivo de la base de datos para importar
+wordpress_curso_unne.sql
+
+La tienda online tiene 4 Categorias de los cuales son
+Comic que este contiene dos subcategoria Dc comic - Marvel
+FunkoPop
+Games ue este contiene dos subcategoria PS4-PS5	
+Mangas
+
+Se agrego los atributos
+Estado de producto: que este contiene los atributos Usado o Nuevo, seria unas opciones de producto 
+si el cliente lo quiere comprar eligiendo alguna de esas dos opciones.
+
+Medidas: que este contiene los atributos 10cm o 13 cm, las medidas a elegir del funkoPop que desea
+comprar el cliente
+
+Cupones
+
+MiPrimeraCompra2022
+
+8TBT2VU5
+
+Se genero un formulario de contacto , se trabajo con el plugin WPForms
+
+Los perfiles de usuarios son
+
+Gestor de tienda
+Cesar22
+H!a*a2kwm4IQ&@EBI7HE9cD!
+
+Administrador
+alejandro
+HIRX(EnYKhbjZNzq#v
+
+Cliente
+Jose25	
+6o9a6hatn#wUpia3N^5Frcr5
+
+
+plugin de seguridad implementado
+
+iThemes Security (formerly Better WP Security)
+
+
+
+
+
+
